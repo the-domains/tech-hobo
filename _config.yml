@@ -1,0 +1,28 @@
+name: Tech Hobo
+favicon: null
+layout_spectrum: 0.3970513395033777
+typography_spectrum: 0.531615232815966
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.05490562575869262
+  lightness: 0.35645599151030183
+  saturation: 0.34050410031341016
+  rhythmicContrast: 0.05365581810474396
+purpose: []

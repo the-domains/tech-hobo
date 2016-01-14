@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Tech Hobo]]></title>
         <description><![CDATA[Tech Hobo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tech-hobo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 19:31:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Jan 2016 19:42:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tech-hobo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Grid | Site Setup | Founding Member #83]]></title>
+            <description><![CDATA[<article><h1>The Grid | Site Setup | Founding Member #83</h1><p>Hello again Founding Members! It's time to setup your new website on The Grid. This video took longer to shoot then in the playback. The reason was that I forgot an important step which I had to go back and sort out. You get to see everything I did.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b1579c754cedd2b1029f33bc3f8976f224e11a45.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=CM7gxokrgSU</link>
+            <guid isPermaLink="false">072e83f4-a117-4b63-a6e3-a9e1b4feaaa2</guid>
+            <pubDate>Thu, 14 Jan 2016 19:41:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Grid - Design Systems Team Hangout - July 8th, 2015]]></title>
             <description><![CDATA[<article><h1>The Grid - Design Systems Team Hangout - July 8th, 2015</h1><p>An impromptu chat with a few members of The Grid team. This is the first in an experiment of hangouts giving you a behind the scenes look at what our team is working on, and what's next on the horizon.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09fad15889325f9d1f5fa6a81c3fcf912c0e47fa.jpg"></article>]]></description>

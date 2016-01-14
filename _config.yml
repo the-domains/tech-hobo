@@ -22,7 +22,7 @@ color:
     - '#868686'
     - '#414141'
   brandStrength: 0
-  lightness: 0.5
-  saturation: 0
-  rhythmicContrast: 0.5
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []

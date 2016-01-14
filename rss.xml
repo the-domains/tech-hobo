@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Tech Hobo]]></title>
         <description><![CDATA[Tech Hobo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tech-hobo/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Thu, 14 Jan 2016 20:15:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/tech-hobo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How To Backup & Restore Your WordPress Website In 10 Minutes]]></title>
+            <description><![CDATA[<article><h1>How To Backup & Restore Your WordPress Website In 10 Minutes</h1><p>Learn how to backup your WordPress website to Dropbox, Google Drive or another cloud service - really easily - AND restore your WordPress website using your backup with just one click. In this video I'll walk you through the steps. I'm using the #1 backup plugin in the WordPress plugin library.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f784f2b8f9f0ade1f991fcf3f0990b779760e9c5.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=ay6z4g2tN-Y</link>
+            <guid isPermaLink="false">d07a6a69-c453-4b90-885b-05be65724927</guid>
+            <pubDate>Thu, 14 Jan 2016 20:15:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How To Add A Stylish Pricing Table To Your WordPress Website | YouTube Q&A]]></title>
             <description><![CDATA[<article><h1>How To Add A Stylish Pricing Table To Your WordPress Website | YouTube Q&A</h1><p>In this week's YouTube Q&A, I answer Michelle's question. Michelle asks, "How do I create a pricing table on my WordPress website that links to a landing page or payment page?" Great question, thanks Michelle! Hope this video is helpful to you and to everyone who wants to add a pricing table to your WordPress website.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aea5b771062fccc1d8caf603d01d821249785619.jpg"></article>]]></description>

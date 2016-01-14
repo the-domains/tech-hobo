@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tech Hobo]]></title>
+        <description><![CDATA[Tech Hobo]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 14 Jan 2016 19:31:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Grid - Design Systems Team Hangout - July 8th, 2015]]></title>
+            <description><![CDATA[<article><h1>The Grid - Design Systems Team Hangout - July 8th, 2015</h1><p>An impromptu chat with a few members of The Grid team. This is the first in an experiment of hangouts giving you a behind the scenes look at what our team is working on, and what's next on the horizon.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09fad15889325f9d1f5fa6a81c3fcf912c0e47fa.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=Bu0EQRX1jGg</link>
+            <guid isPermaLink="false">f1550852-dfff-4831-b6ba-22b1442fd242</guid>
+            <pubDate>Thu, 14 Jan 2016 19:31:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

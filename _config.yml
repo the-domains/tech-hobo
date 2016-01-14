@@ -1,6 +1,6 @@
 name: Tech Hobo
 favicon: null
-layout_spectrum: 0.31024
+layout_spectrum: 0.43545
 typography_spectrum: 0.41977
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#ffffff'
     - '#868686'
     - '#414141'
-  brandStrength: 1
+  brandStrength: 0.75
   lightness: 0.375
   saturation: 0.375
   rhythmicContrast: 0
